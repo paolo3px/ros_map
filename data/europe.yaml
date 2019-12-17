@@ -564,3 +564,10 @@
   long: -0.599851
   description: Research institute for the digital sciences
   link: https://www.inria.fr/en/centre/bordeaux
+- name: Scuola Superiore Sant'Anna
+  type: school
+  lat: 43.718350
+  long: 10.424777
+  description: Department of excellence in Robotics & AI, TeCIP Institute
+  address: via G. Moruzzi, 1 - Località San Cataldo, Area CNR, 56124 Pisa, Italy
+  link: https://www.santannapisa.it/   https://www.santannapisa.it/it/paolo-tripicchio
